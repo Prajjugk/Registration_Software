@@ -79,5 +79,3 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 
-git config --global user.name "Prajjugk"
-git config --global user.email "prajwalgk74@gmail.com"
